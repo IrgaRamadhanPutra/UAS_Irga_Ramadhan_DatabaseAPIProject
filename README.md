@@ -15,6 +15,22 @@
      <br>
   ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/81128705-ac5e-412a-a9fb-ffb2b9441012)
 
-3. zxcvm,z 
-4. scvbjc
-5. 
+2. menu
+ - activity_main.xml
+     <br>
+    ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/ab7860b2-2478-4579-be90-195f829ef931)
+
+ - activity_main_action.xml
+     <br>
+    ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/ef05e785-9557-41ff-bebe-182a69ee031c)
+
+ - form_handphone.xml
+     <br>
+   ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/a071015b-7afc-4c2b-b4a1-47f76b535403)
+
+ - list_row.xml
+     <br>
+  ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/81128705-ac5e-412a-a9fb-ffb2b9441012)
+4. 
+5. scvbjc
+6. 
