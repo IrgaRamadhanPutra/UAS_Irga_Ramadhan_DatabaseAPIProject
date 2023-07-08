@@ -28,9 +28,4 @@
      <br>
    ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/a071015b-7afc-4c2b-b4a1-47f76b535403)
 
- - list_row.xml
-     <br>
-  ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/81128705-ac5e-412a-a9fb-ffb2b9441012)
-4. 
-5. scvbjc
-6. 
+
